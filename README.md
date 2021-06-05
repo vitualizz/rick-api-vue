@@ -1,4 +1,4 @@
-# Rick and Morty consumer api test
+# Rick and Morty consumer api test <3
 
 ## Project setup
 ```

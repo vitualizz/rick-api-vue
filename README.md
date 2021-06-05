@@ -1,4 +1,4 @@
-# amplify_demo
+# Rick and Morty consumer api test
 
 ## Project setup
 ```
